@@ -1,0 +1,273 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+   Sat 07/05/2025 22:39:51.96 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Assets\Textures\Icons\DGB_Placeholder_AkELkA_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Content\[PAK]_DGB_Placeholder_AkELkA\75e3e4f1-d796-89dd-0df8-c4bbd3cbf6fc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\GUI\DGB_Placeholder_AkELkA_Atlas.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 3 
+ 
+[LOG] Total files found across all folders: 9 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 to Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using destination: Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 10:39:56 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\meta.lsx100%  
+	    New File  		   18644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    18.8 k    18.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            19345000 Bytes/sec.
+   Speed :            1106.929 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 10:39:56 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 to "Editor\Mods"\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using destination: Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 10:39:58 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, July 5, 2025 10:39:58 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 to Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using destination: Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 10:39:59 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\meta.lsx100%  
+	    New File  		   18644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    24.1 k    24.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            24706000 Bytes/sec.
+   Speed :            1413.688 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 10:39:59 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 to Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[DEBUG] Using destination: Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 10:40:01 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   15803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\GUI\DGB_Placeholder_AkELkA_Atlas.lsx100%  
+	    New File  		    1619	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Content\[PAK]_DGB_Placeholder_AkELkA\75e3e4f1-d796-89dd-0df8-c4bbd3cbf6fc.lsf100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13\Assets\Textures\Icons\DGB_Placeholder_AkELkA_Atlas.dds100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   358.4 k   358.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           183551000 Bytes/sec.
+   Speed :           10502.872 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 10:40:01 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Placeholder_AkELkA_ae2d581a-68c9-8853-9933-d17ec57a8d13 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 9 
+[SUMMARY] Total files successfully copied: 18 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

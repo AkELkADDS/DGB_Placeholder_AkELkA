@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FA"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.12402344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FA_DOWN"/>
+                    <attribute id="U1" type="float" value="0.12597656"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FA_UP"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.37402344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FB"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FB_DOWN"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.62402344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FB_UP"/>
+                    <attribute id="U1" type="float" value="0.62597656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FC"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FC_DOWN"/>
+                    <attribute id="U1" type="float" value="0.87597656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.0009765625"/>
+                    <attribute id="V2" type="float" value="0.12402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FC_UP"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.12402344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FD"/>
+                    <attribute id="U1" type="float" value="0.12597656"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FD_DOWN"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.37402344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FD_UP"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FE"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.62402344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FE_DOWN"/>
+                    <attribute id="U1" type="float" value="0.62597656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_FE_UP"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MA"/>
+                    <attribute id="U1" type="float" value="0.87597656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.12597656"/>
+                    <attribute id="V2" type="float" value="0.24902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MA_DOWN"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.12402344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MA_UP"/>
+                    <attribute id="U1" type="float" value="0.12597656"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MC"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.37402344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MC_DOWN"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MC_UP"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.62402344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MD"/>
+                    <attribute id="U1" type="float" value="0.62597656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MD_DOWN"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MD_UP"/>
+                    <attribute id="U1" type="float" value="0.87597656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.37402344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_ME"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.12402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_ME_DOWN"/>
+                    <attribute id="U1" type="float" value="0.12597656"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_ME_UP"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.37402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MF"/>
+                    <attribute id="U1" type="float" value="0.37597656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MF_DOWN"/>
+                    <attribute id="U1" type="float" value="0.50097656"/>
+                    <attribute id="U2" type="float" value="0.62402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MF_UP"/>
+                    <attribute id="U1" type="float" value="0.62597656"/>
+                    <attribute id="U2" type="float" value="0.74902344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MG"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.87402344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MG_DOWN"/>
+                    <attribute id="U1" type="float" value="0.87597656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.37597656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_Placeholder_MG_UP"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.12402344"/>
+                    <attribute id="V1" type="float" value="0.50097656"/>
+                    <attribute id="V2" type="float" value="0.62402344"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/DGB_Placeholder_AkELkA_Atlas.dds"/>
+                    <attribute id="UUID" type="FixedString" value="75e3e4f1-d796-89dd-0df8-c4bbd3cbf6fc"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="512"/>
+                    <attribute id="Width" type="int32" value="512"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
